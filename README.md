@@ -145,7 +145,6 @@ npm test
 ```
 
 
-
 ## Future Enhancements
 
 - Weather-based task suggestions
