@@ -9,7 +9,7 @@ import './App.css';
 
 // Get the basename from PUBLIC_URL (set by homepage in package.json)
 // This is needed for GitHub Pages subdirectory routing
-const basename = process.env.PUBLIC_URL || '/CS409-finalProject';
+const basename = process.env.PUBLIC_URL || '/Home-Maintenance-Tracker';
 
 function App() {
   return (
