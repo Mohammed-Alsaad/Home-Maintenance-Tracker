@@ -2,6 +2,8 @@
 
 A simple and intuitive home maintenance task tracking application that helps renters and homeowners keep track of their maintenance tasks with email reminders and easy-to-use tracking.
 
+<img width="1700" height="850" alt="Screenshot_83" src="https://github.com/user-attachments/assets/c52c8b49-30f8-4f2b-8a16-0ff842ac642d" />
+
 ## Features
 
 - **User Authentication**: Secure login and signup with JWT tokens
